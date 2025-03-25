@@ -28,3 +28,6 @@ How does each product’s sales compare to last year?
 How do different customer segments contribute to total sales?
 
 Which distributors are driving the most revenue?
+
+## Dashboards
+Dashboard Interaction <a https://github.com/Roaa-saad/Pharma-Analysis/blob/main/Pharma.pbix> View Dashboard </a>
